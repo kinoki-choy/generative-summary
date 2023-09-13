@@ -1,0 +1,11 @@
+bin
+.git
+*.pyc
+.env
+.DS_Store
+downloads/
+__pycache__/
+.credentials.json
+local_settings.py
+photoslibrary_v1.token
+gphtospy.log
